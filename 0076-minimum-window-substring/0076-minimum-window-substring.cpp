@@ -1,52 +1,31 @@
 class Solution {
 public:
-    vector<int> getFreq(string &s, unordered_set<char> &st) {
-        vector<int> freq(128, 0);
-        for (char c : s) {
-            if (st.count(c))
-                freq[c]++;
-        }
-        return freq;
-    }
-
-    bool valid(vector<int> &windowFreq, vector<int> &targetFreq) {
-        for (int i = 0; i < 128; i++) {
-            if (windowFreq[i] < targetFreq[i])
-                return false;
-        }
-        return true;
-    }
-
     string minWindow(string s, string t) {
-        unordered_set<char> st(begin(t), end(t));
-
-        vector<int> targetFreq = getFreq(t, st);
-        vector<int> windowFreq(128, 0);
-
-        int n = s.size();
+        unordered_map<char, int> mp;
+        for (auto x : t)
+            mp[x]++;
+        int count = t.length(), n = s.length();
+        int maxLen = INT_MAX, startIdx = 0;
         int i = 0, j = 0;
-        int startIdx = 0;
-        int minLen = INT_MAX;
-
         while (j < n) {
-            if (st.count(s[j]))
-                windowFreq[s[j]]++;
-
-            while (i <= j && valid(windowFreq, targetFreq)) {
-                if (j - i + 1 < minLen) {
-                    minLen = j - i + 1;
+            if (mp[s[j]] > 0) {
+                count--;
+            }
+            mp[s[j]]--;
+            while (count == 0 && i <= j) {
+                if (maxLen > j - i + 1) {
+                    maxLen = j - i + 1;
                     startIdx = i;
                 }
-
-                if (st.count(s[i]))
-                    windowFreq[s[i]]--;
-
+                mp[s[i]]++;
+                if (mp[s[i]] > 0) {
+                    count++;
+                }
                 i++;
             }
-
             j++;
         }
 
-        return (minLen == INT_MAX) ? "" : s.substr(startIdx, minLen);
+        return maxLen == INT_MAX ? "": s.substr(startIdx, maxLen);
     }
 };
