@@ -73,4 +73,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0176-second-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
