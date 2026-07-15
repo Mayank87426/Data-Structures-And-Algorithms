@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0178-rank-scores) |
 ## Linked List
 |  |
 | ------- |
