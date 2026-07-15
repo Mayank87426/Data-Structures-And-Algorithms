@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0279-perfect-squares) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
 | ------- |
