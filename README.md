@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0264-ugly-number-ii](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0264-ugly-number-ii) |
+| [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
 ## Enumeration
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0264-ugly-number-ii) |
+| [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
 ## Number Theory
 |  |
 | ------- |
@@ -110,4 +112,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Design
+|  |
+| ------- |
+| [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
 <!---LeetCode Topics End-->
