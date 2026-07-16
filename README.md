@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0274-h-index) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0279-perfect-squares) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -76,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -89,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
