@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0274-h-index) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
@@ -34,11 +35,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 ## Union-Find
 |  |
@@ -100,10 +103,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
