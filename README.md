@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 | [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
 ## Ordered Set
 |  |
@@ -132,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
