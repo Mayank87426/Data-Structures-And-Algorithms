@@ -11,24 +11,15 @@
 class Solution {
 public:
     ListNode* reverseUsingRecursion(ListNode* head, ListNode* prev) {
-        if (!head->next) {
-            head->next = prev;
-            return head;
-        }
-        ListNode* n = head->next;
+        if (head == nullptr)
+            return prev;
+
+        ListNode* next = head->next;
         head->next = prev;
-        return reverseUsingRecursion(n, head);
+        return reverseUsingRecursion(next, head);
     }
+
     ListNode* reverseList(ListNode* head) {
-        if(!head)return NULL;
-        if(!head->next)return head;
-        ListNode* dummy = new ListNode(10000);
-        ListNode* reverseLL = reverseUsingRecursion(head, dummy);
-        ListNode* temp = head;
-        while (temp->next->next) {
-            temp = temp->next;
-        }
-        temp->next = NULL;
-        return reverseLL;
+        return reverseUsingRecursion(head, nullptr);
     }
 };
