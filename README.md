@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 ## String
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
