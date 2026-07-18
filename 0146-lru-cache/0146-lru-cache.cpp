@@ -1,46 +1,37 @@
 class LRUCache {
 public:
+    list<int> dll;
+
+    unordered_map<int, pair<int, list<int>::iterator>> keyToValAddress;
+
     int n;
-    int timer = 0;
 
-    set<pair<int, int>> st;            
-    unordered_map<int, int> val;        
-    unordered_map<int, int> last;       
-
-    LRUCache(int capacity) {
-        n = capacity;
-    }
+    LRUCache(int capacity) { n = capacity; }
 
     int get(int key) {
-        if (!val.count(key))
+        if (!keyToValAddress.count(key))
             return -1;
 
-        st.erase({last[key], key});
+        int value = keyToValAddress[key].first;
 
-        timer++;
-        last[key] = timer;
-        st.insert({timer, key});
+        dll.erase(keyToValAddress[key].second);
+        dll.push_front(key);
+        keyToValAddress[key].second = dll.begin();
 
-        return val[key];
+        return value;
     }
 
     void put(int key, int value) {
-        timer++;
-
-        if (val.count(key)) {
-            st.erase({last[key], key});
-        } else if ((int)val.size() == n) {
-            auto it = st.begin();
-            int oldKey = it->second;
-
-            st.erase(it);
-            val.erase(oldKey);
-            last.erase(oldKey);
+        if (keyToValAddress.count(key)) {
+            dll.erase(keyToValAddress[key].second);
+        } else if (keyToValAddress.size() == n) {
+            int oldKey = dll.back();
+            dll.pop_back();
+            keyToValAddress.erase(oldKey);
         }
 
-        val[key] = value;
-        last[key] = timer;
-        st.insert({timer, key});
+        dll.push_front(key);
+        keyToValAddress[key] = {value, dll.begin()};
     }
 };
 /**
