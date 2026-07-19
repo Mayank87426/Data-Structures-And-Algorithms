@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0264-ugly-number-ii) |
+| [0895-maximum-frequency-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
 ## Enumeration
@@ -153,10 +154,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
 ## Recursion
 |  |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Topological Sort
 |  |
