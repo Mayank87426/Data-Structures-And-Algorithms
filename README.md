@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0264-ugly-number-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
@@ -210,4 +212,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
