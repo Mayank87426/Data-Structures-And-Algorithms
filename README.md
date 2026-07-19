@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0091-decode-ways) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sweep Line
 |  |
 | ------- |
@@ -199,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
