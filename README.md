@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
+| [0735-asteroid-collision](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1260-shift-2d-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
