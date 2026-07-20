@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
+| [1260-shift-2d-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
