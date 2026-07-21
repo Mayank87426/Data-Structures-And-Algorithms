@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0091-decode-ways) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Union-Find
 |  |
 | ------- |
