@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0735-asteroid-collision](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0091-decode-ways) |
+| [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -78,12 +80,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0851-loud-and-rich](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 ## Sorting
@@ -114,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
 ## Heap (Priority Queue)
 |  |
@@ -156,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0851-loud-and-rich) |
 ## Matrix
@@ -266,4 +272,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
