@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1260-shift-2d-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Backtracking
 |  |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -251,4 +254,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
