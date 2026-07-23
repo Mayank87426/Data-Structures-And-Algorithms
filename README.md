@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
