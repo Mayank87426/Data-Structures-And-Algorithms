@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
+| [0413-arithmetic-slices](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0735-asteroid-collision](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0413-arithmetic-slices](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0413-arithmetic-slices](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 ## Simulation
 |  |
