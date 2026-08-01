@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0735-asteroid-collision](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0486-predict-the-winner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -307,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
