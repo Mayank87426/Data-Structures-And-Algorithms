@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0183-customers-who-never-order) |
 | [1068-product-sales-analysis-i](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1068-product-sales-analysis-i) |
 | [1158-market-analysis-i](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1158-market-analysis-i) |
+| [1789-primary-department-for-each-employee](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1789-primary-department-for-each-employee) |
 ## Linked List
 |  |
 | ------- |
