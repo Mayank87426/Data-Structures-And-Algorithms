@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1068-product-sales-analysis-i) |
 | [1158-market-analysis-i](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1158-market-analysis-i) |
 | [1789-primary-department-for-each-employee](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1789-primary-department-for-each-employee) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Linked List
 |  |
 | ------- |
