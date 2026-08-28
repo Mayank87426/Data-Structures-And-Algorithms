@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0721-accounts-merge](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0721-accounts-merge) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0295-find-median-from-data-stream](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0895-maximum-frequency-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
 ## Ordered Set
@@ -353,4 +357,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0096-unique-binary-search-trees) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
