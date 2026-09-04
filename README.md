@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0895-maximum-frequency-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0895-maximum-frequency-stack) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0274-h-index) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1854-maximum-population-year](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Heap (Priority Queue)
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0851-loud-and-rich) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Matrix
@@ -337,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -361,4 +366,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
+## DP on Trees
+|  |
+| ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 <!---LeetCode Topics End-->
