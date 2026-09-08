@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1854-maximum-population-year](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2401-longest-nice-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2401-longest-nice-subarray) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [2401-longest-nice-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2401-longest-nice-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -370,4 +372,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2401-longest-nice-subarray) |
 <!---LeetCode Topics End-->
