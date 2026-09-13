@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Game Theory
@@ -371,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0098-validate-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
