@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0851-loud-and-rich](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Sorting
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0851-loud-and-rich) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -405,4 +408,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
