@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0413-arithmetic-slices) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0721-accounts-merge) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0274-h-index](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0721-accounts-merge) |
 | [0823-binary-trees-with-factors](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0823-binary-trees-with-factors) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
