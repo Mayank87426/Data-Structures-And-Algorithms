@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
@@ -415,4 +417,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1042-flower-planting-with-no-adjacent) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
