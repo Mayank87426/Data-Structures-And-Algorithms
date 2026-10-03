@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0096-unique-binary-search-trees) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0853-car-fleet) |
@@ -425,4 +428,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
