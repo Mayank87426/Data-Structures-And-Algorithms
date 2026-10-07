@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 ## String
 |  |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0091-decode-ways) |
+| [0301-remove-invalid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0567-permutation-in-string](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0721-accounts-merge) |
