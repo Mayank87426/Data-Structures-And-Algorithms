@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
