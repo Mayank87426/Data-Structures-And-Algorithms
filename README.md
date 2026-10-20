@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1291-sequential-digits](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 ## Breadth-First Search
 |  |
 | ------- |
