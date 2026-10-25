@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0990-satisfiability-of-equality-equations) |
+| [1254-number-of-closed-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1254-number-of-closed-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0851-loud-and-rich) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1254-number-of-closed-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -280,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0827-making-a-large-island](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0827-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 ## Sliding Window
 |  |
