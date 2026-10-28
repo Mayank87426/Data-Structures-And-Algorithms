@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1260-shift-2d-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [2401-longest-nice-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2401-longest-nice-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
