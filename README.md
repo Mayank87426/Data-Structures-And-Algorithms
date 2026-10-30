@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1042-flower-planting-with-no-adjacent](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2467-most-profitable-path-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3408-design-task-manager](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3408-design-task-manager) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -429,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0399-evaluate-division) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Tree
 |  |
 | ------- |
