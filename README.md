@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [2401-longest-nice-subarray](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/2401-longest-nice-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mayank87426/Data-Structures-And-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
